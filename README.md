@@ -4,7 +4,8 @@
     Bienvenida al curso
 # Class#2
     Introducción al asincronismo
-        Event Loop      |
-        |               |
-        |               |    
-        |Input => Thread|
+# Class#3
+    Presentación del reto
+# Links
+    Rick and Mortyapi:
+        https://rickandmortyapi.com/
