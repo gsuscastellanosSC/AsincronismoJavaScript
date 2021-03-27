@@ -1,0 +1,24 @@
+{
+    "name": "asincronismo",
+    "version": "1.0.0",
+    "description": "Asincronismo en js",
+    "main": "src/index.js",
+    "scripts": {
+        "callback": "node src/callback/index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/gsuscastellanosSC/AsincronismoJavaScript.git"
+    },
+    "keywords": [
+        "callbacks",
+        "promise",
+        "async"
+    ],
+    "author": "SC",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/gsuscastellanosSC/AsincronismoJavaScript/issues"
+    },
+    "homepage": "https://github.com/gsuscastellanosSC/AsincronismoJavaScript#readme"
+}
