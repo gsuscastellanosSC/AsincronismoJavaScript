@@ -21,6 +21,8 @@
 # Class#8
     Resolver problema con Promesas
         npm run promise:challenge
+# Class#9    
+    Conociendo Async/await
 # Links
     10 Plugins esenciales de VSCode para Frontends:
         https://platzi.com/blog/10-plugins-esenciales-para-vscode/
