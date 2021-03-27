@@ -27,6 +27,8 @@
     Resolver problema con Async/Await
 # Class#11
     Callbacks Vs Promesas Vs Async/Await
+# Class#12
+    Conclusiones
 # Links
     10 Plugins esenciales de VSCode para Frontends:
         https://platzi.com/blog/10-plugins-esenciales-para-vscode/
