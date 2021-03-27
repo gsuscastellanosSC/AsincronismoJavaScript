@@ -15,6 +15,8 @@
 # Class#6
     Curso de Asincronismo con JavaScript
         npm run callback:challenge
+# Class#7    
+    Implementando Promesas
 # Links
     10 Plugins esenciales de VSCode para Frontends:
         https://platzi.com/blog/10-plugins-esenciales-para-vscode/
