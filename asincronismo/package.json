@@ -20,5 +20,8 @@
     "bugs": {
         "url": "https://github.com/gsuscastellanosSC/AsincronismoJavaScript/issues"
     },
-    "homepage": "https://github.com/gsuscastellanosSC/AsincronismoJavaScript#readme"
+    "homepage": "https://github.com/gsuscastellanosSC/AsincronismoJavaScript#readme",
+    "dependencies": {
+        "xmlhttprequest": "^1.8.0"
+    }
 }
